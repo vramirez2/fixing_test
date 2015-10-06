@@ -1,1 +1,3 @@
-asasaschanging the content for the file
+<?php
+phpinfo();
+?>
